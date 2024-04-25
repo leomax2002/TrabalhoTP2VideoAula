@@ -1,5 +1,20 @@
 # TrabalhoTP2VideoAula
-Implementação do Estilo MVC em um ambiente Java
+Esse trabalho consiste na realização de uma videoaula baseada na implementação do Estilo de Programação Trinity ou MVC (Model, View, Controller) em um ambiente Java. 
+
+O programa implementado será um algoritmo de WordCount, que lê palavras de um arquivo e mostra as palavras em ordem decrescente de sua frequência no texto fornecido. 
+
+A videoaula é segmentada da seguinte forma:
+
+1.Apresentação das restrições que movem o estilo;
+
+2.Explicação do Código elaborado;
+
+3.Notas históricas e comentários gerais em relação ao estilo;
+
+4.Apresentação de uma versão alternativa do Código, que é baseada em um dos exercícios sugeridos no livro "Exercises in Programming Styles", de Cristina Videira Lopes;
+
+5.Discussão do uso desse Estilo no design de sistemas computacionais.
+
 ## Integrantes
 Lucas Fernandes - 180022563 
 
@@ -14,3 +29,10 @@ Lucas Seabra - 170039951
 Para executar os programas basta utilizar o procedimento de compilação padrão do java: Dentro da pasta correta, utilizar o comando javac <nomeDoArquivo>.java  
 
 (obs: para a leitura de arquivo é necessário o nome completo do arquivo, ou seja seu "caminho")
+
+## Referências
+[Livro do Patterson citado (leiam apenas as páginas 98 e 99)] (https://drive.google.com/file/d/19dqWms9qUQ2Bi8JfsBhC5Q6zDeJd0s5o/view)
+
+[Rotten Potatoes] (https://github.com/gabrielsr/rottenpotatoes/tree/main/app)
+
+[Lopes, C.V. (2020). Exercises in Programming Style (2nd ed.). Chapman and Hall/CRC.] (https://doi.org/10.1201/9780429343216)
