@@ -5,9 +5,13 @@ O programa implementado será um algoritmo de WordCount, que lê palavras de um 
 A videoaula é segmentada da seguinte forma:
 
 1.Apresentação das restrições que movem o estilo;
+
 2.Explicação do Código elaborado;
+
 3.Notas históricas e comentários gerais em relação ao estilo;
+
 4.Apresentação de uma versão alternativa do Código, que é baseada em um dos exercícios sugeridos no livro "Exercises in Programming Styles", de Cristina Videira Lopes;
+
 5.Discussão do uso desse Estilo no design de sistemas computacionais.
 
 ## Integrantes
