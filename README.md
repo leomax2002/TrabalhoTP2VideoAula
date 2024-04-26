@@ -33,9 +33,9 @@ Lucas Seabra - 170039951
 ## Execução do Código
 Para executar os programas basta utilizar o procedimento de compilação padrão do java: Dentro da pasta correta, utilizar o comando javac <nomeDoArquivo>.java
 
-O código foi implementado por meio da plataforma inteij utilizando Java 22.
+O código foi implementado por meio da plataforma inteij utilizando Java 22. A IDE inteij apresenta as estruturas necessárias de compilação, de modo que utilizou-se apenas o comando "Run" embutido no programa.
 
-(obs: para a leitura de arquivo é necessário o nome completo do arquivo, ou seja seu "caminho")
+(obs: para a leitura de arquivo é necessário o nome completo do arquivo, ou seja seu PATH Absoluto)
 
 ## Referências
 [Livro do Patterson citado (leiam apenas as páginas 98 e 99)] (https://drive.google.com/file/d/19dqWms9qUQ2Bi8JfsBhC5Q6zDeJd0s5o/view)
