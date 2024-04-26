@@ -14,6 +14,8 @@ A videoaula é segmentada da seguinte forma:
 
 5.Discussão do uso desse Estilo no design de sistemas computacionais.
 
+##Link para a VideoAula
+[Link:] (https://youtu.be/0mo4oi05Q1A)
 ## Integrantes
 Lucas Fernandes - 180022563 
 
