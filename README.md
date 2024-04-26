@@ -25,8 +25,9 @@ João Vitor Dickmann - 211042757
 
 Lucas Seabra - 170039951 
 ## Execução do Código
-Para executar os programas basta utilizar o procedimento de compilação padrão do java: Dentro da pasta correta, utilizar o comando javac <nomeDoArquivo>.java  
+Para executar os programas basta utilizar o procedimento de compilação padrão do java: Dentro da pasta correta, utilizar o comando javac <nomeDoArquivo>.java
 
+Para se verificar a implementação alternativa, verificar o branch "dickmann-teste"
 (obs: para a leitura de arquivo é necessário o nome completo do arquivo, ou seja seu "caminho")
 
 ## Referências
