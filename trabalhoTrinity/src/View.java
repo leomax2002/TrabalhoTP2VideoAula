@@ -4,13 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class View {
-    private final Model model=new Model();
-    private ArrayList<ContagemPalavra> arrayPalavras=new ArrayList<>();
-    public void caregarWordCount(String nomeArquivo)  {
-        HashMap<String,Integer> map= model.contarPalavras(nomeArquivo);
-
-        this.arrayPalavras=converteEmLista(map);
-    }
+    public ArrayList<ContagemPalavra> arrayPalavras=new ArrayList<>();
 
     public List<ContagemPalavra> apresentarArrayWordCount(int qtdPagina, int numPagina, int tipoOrdenacao){
         ordenarArray(tipoOrdenacao);
@@ -20,16 +14,7 @@ public class View {
             return this.arrayPalavras.subList(qtdPagina * numPagina-1, arrayPalavras.size()-1);
         }
     }
-    private ArrayList<ContagemPalavra> converteEmLista(HashMap<String,Integer> map){
-        ArrayList<ContagemPalavra> arrayPalavras= new ArrayList<>();
-        for (String key : map.keySet()) {
-            ContagemPalavra objeto = new ContagemPalavra();
-            objeto.Palavra= key;
-            objeto.quantidade= map.get(key);
-            arrayPalavras.add(objeto);
-        }
-        return arrayPalavras;
-    }
+
     private void ordenarArray(int cresceteOuDecrescente){
         System.out.println(arrayPalavras.size());
         if(cresceteOuDecrescente<0){
