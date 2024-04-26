@@ -8,14 +8,16 @@ A videoaula é segmentada da seguinte forma:
 
 2.Explicação do Código elaborado;
 
-3.Notas históricas e comentários gerais em relação ao estilo;
+3.Demonstração de uma suíte de testes simples;
 
-4.Apresentação de uma versão alternativa do Código, que é baseada em um dos exercícios sugeridos no livro "Exercises in Programming Styles", de Cristina Videira Lopes;
+4.Comentários gerais em relação ao estilo;
 
-5.Discussão do uso desse Estilo no design de sistemas computacionais.
+5.Apresentação de uma versão alternativa do Código, que é baseada em um dos exercícios sugeridos no livro "Exercises in Programming Styles", de Cristina Videira Lopes;
+
+6.Discussão do uso desse Estilo no design de sistemas computacionais.
 
 ## Link para a VideoAula e para o repositório
-[Link para a videoaula:] (https://youtu.be/tvs88YSWUwg)
+[Link para a videoaula:] (https://youtu.be/GJjRPD0I3dM)
 
 [Link para o repositório:] (https://github.com/leomax2002/TrabalhoTP2VideoAula/tree/main)
 ## Integrantes
