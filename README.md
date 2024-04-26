@@ -14,7 +14,7 @@ A videoaula é segmentada da seguinte forma:
 
 5.Discussão do uso desse Estilo no design de sistemas computacionais.
 
-##Link para a VideoAula e para o repositório
+## Link para a VideoAula e para o repositório
 [Link para a videoaula:] (https://youtu.be/0mo4oi05Q1A)
 
 [Link para o repositório:] (https://github.com/leomax2002/TrabalhoTP2VideoAula/tree/main)
