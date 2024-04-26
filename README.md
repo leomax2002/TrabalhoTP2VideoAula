@@ -15,7 +15,7 @@ A videoaula é segmentada da seguinte forma:
 5.Discussão do uso desse Estilo no design de sistemas computacionais.
 
 ## Link para a VideoAula e para o repositório
-[Link para a videoaula:] (https://youtu.be/0mo4oi05Q1A)
+[Link para a videoaula:] (https://youtu.be/tvs88YSWUwg)
 
 [Link para o repositório:] (https://github.com/leomax2002/TrabalhoTP2VideoAula/tree/main)
 ## Integrantes
@@ -30,8 +30,6 @@ João Vitor Dickmann - 211042757
 Lucas Seabra - 170039951 
 ## Execução do Código
 Para executar os programas basta utilizar o procedimento de compilação padrão do java: Dentro da pasta correta, utilizar o comando javac <nomeDoArquivo>.java
-
-Para se verificar a implementação alternativa, verificar o branch "dickmann-teste".
 
 O código foi implementado por meio da plataforma inteij utilizando Java 22.
 
